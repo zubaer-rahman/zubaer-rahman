@@ -5,13 +5,17 @@
   <p><strong>Full Stack Developer | Next.js & React Specialist | AI/ML Enthusiast</strong></p>
 </div>
 
-I am a Software Engineer with 3+ years of professional experience specializing in the MERN stack ecosystem. I bridge the gap between robust backend architecture and high-performance interfaces, focusing on building scalable systems, optimizing web vitals, and exploring AI/ML workflows.
-
 ### I have technical experience and interest in:
-- **Frontend Architecture:** Crafting highly interactive, pixel-perfect, and SEO-optimized interfaces using Next.js and React.
-- **AI/ML Integration:** Building intelligent application features, leveraging LLM APIs, and exploring modern AI engineering paradigms.
-- **Backend & APIs:** Designing scalable databases with PostgreSQL, Prisma ORM, and implementing Redis caching for performance.
-- **DevOps & Automation:** Constructing automated CI/CD pipelines with GitHub Actions and containerizing with Docker.
+- Full-Stack Web Development
+- MERN Stack Development
+- Mobile Application Development
+- Chatbots & Conversational AI
+- Deep Learning
+- Machine Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- MLOps
+- Generative AI
 
 ---
 
@@ -66,7 +70,7 @@ I am a Software Engineer with 3+ years of professional experience specializing i
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compat&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
