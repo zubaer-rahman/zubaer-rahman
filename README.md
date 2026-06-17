@@ -73,16 +73,22 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/zubaer-rahman">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </a>
-  <a href="https://github.com/zubaer-rahman">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/zubaer-rahman">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="95%"/>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/zubaer-rahman">
+        <img src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="95%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+<p align="center" style="margin-top: 15px;">
   <a href="https://github.com/zubaer-rahman">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer-rahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
