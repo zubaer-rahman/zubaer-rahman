@@ -73,23 +73,17 @@
 
 ### 📊 GitHub Analytics
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/zubaer-rahman">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="95%"/>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/zubaer-rahman">
-        <img src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="95%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/zubaer-rahman" style="display: inline-block; vertical-align: top; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Most Used Languages" height="165" />
+  </a>
+  <a href="https://github.com/zubaer-rahman" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  </a>
+</p>
 
-<p align="center" style="margin-top: 15px;">
+<p align="center">
   <a href="https://github.com/zubaer-rahman">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer-rahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer-rahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
   </a>
 </p>
