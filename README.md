@@ -38,6 +38,10 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" alt="Prisma" height="28"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis" height="28"/>
   
+  <!-- AI/ML frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="28"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat&logo=chainlink&logoColor=white" alt="LangChain" height="28"/>
+
   <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" height="28"/>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" height="28"/>
@@ -70,10 +74,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/zubaer-rahman">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
+  <a href="https://github.com/zubaer-rahman">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer-rahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/zubaer-rahman">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer-rahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
