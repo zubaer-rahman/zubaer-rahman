@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zubaer-rahman/zubaer-rahman/main/github_readme_cover.png" alt="Md. Zubaer Rahman – Full Stack Developer" width="100%" />
+</div>
+
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" width="32" height="32"> Hey! Nice to see you.
 
 <div align="center">
@@ -75,15 +79,15 @@
 
 <p align="center">
   <a href="https://github.com/zubaer-rahman" style="display: inline-block; vertical-align: top; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-rahman&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Most Used Languages" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zubaer-rahman&theme=tokyonight" alt="Most Used Languages" height="165" />
   </a>
   <a href="https://github.com/zubaer-rahman" style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api?username=zubaer-rahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zubaer-rahman&theme=tokyonight" alt="GitHub Stats" height="165" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zubaer-rahman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer-rahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+    <img src="https://streak-stats.demolab.com/?user=zubaer-rahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
   </a>
 </p>
