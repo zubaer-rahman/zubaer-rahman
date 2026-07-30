@@ -16,7 +16,6 @@
 - Chatbots & Conversational AI
 - Deep Learning
 - Machine Learning
-<!-- - Computer Vision -->
 - Natural Language Processing (NLP)
 - MLOps
 - Generative AI
